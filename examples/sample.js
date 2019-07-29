@@ -1,22 +1,4 @@
-# TheChecker Node.JS SDK
-
-This project its a SDK to TheChecker API.
-TheChecker API Official Documentation - https://app.thechecker.co/docs
-
-### Prerequisites
-
-- Npm;
-- Node 8+;
-
-### Methods Avaliables:
-
-- **Single Verification**: verifyEmail;
-- **Bulk Verification**: verifyEmails, checkStatus, checkResults, uploadFile;
-
-### Usage:
-
-```js
-const TheCheckerSDK = require('thechecker-sdk');
+const TheCheckerSDK = require('../index.js');
 
 (async function() {
     try {
@@ -51,8 +33,3 @@ const TheCheckerSDK = require('thechecker-sdk');
         console.error(err);
     }
 })();
-```
-
-#### By
-
-2019 TheChecker ❤️.

@@ -16,7 +16,7 @@ TheChecker API Official Documentation - https://app.thechecker.co/docs
 ### Usage:
 
 ```js
-const TheCheckerSDK = require('thechecker-sdk');
+const TheCheckerSDK = require('thechecker-sdk-node');
 
 (async function() {
     try {

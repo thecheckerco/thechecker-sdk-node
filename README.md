@@ -1,6 +1,24 @@
 # TheChecker Node.JS SDK
 
-This project its a SDK to TheChecker API.
+Get rid of email bounces and reach more customers with our proven high-quality yet affordable email verification service.
+
+TheChecker is the most cost-effective email verification and email list cleaning service in the market. We make it easy and affordable for businesses to protect their email sending reputation and avoid inbox delivery issues that lead to a loss of sales opportunities.
+
+What takes TheChecker apart from the competition?
+
+- Accurate results (Up to 99%+)
+- Affordable prices
+- Blazing-fast verification
+- Easy integration
+- Powerful API
+- #1 in customer satisfaction in G2 Crowd, Capterra and TrustPilot verified reviews
+- GDPR compliant
+- Awesome live multilanguage customer support
+
+
+Get 100 FREE credits to test and see the difference with your own eyes.
+
+TheChecker Website - https://wwww.thechecker.co/
 TheChecker API Official Documentation - https://app.thechecker.co/docs
 
 ### Prerequisites

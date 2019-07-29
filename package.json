@@ -1,6 +1,6 @@
 {
   "name": "thechecker-sdk-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TheChecker SDK Node.JS",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "api",
     "sdk",
     "email-verify",
-    "bounce"
+    "email-verifier",
+    "email-checker",
+    "email-validation",
+    "remove-email-bounce"
   ],
   "author": "TheChecker",
   "license": "MIT",

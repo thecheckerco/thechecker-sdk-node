@@ -18,7 +18,7 @@ What takes TheChecker apart from the competition?
 
 Get 100 FREE credits to test and see the difference with your own eyes.
 
-TheChecker Website - https://wwww.thechecker.co/
+TheChecker Website - https://www.thechecker.co/
 
 TheChecker API Official Documentation - https://app.thechecker.co/docs
 
@@ -74,4 +74,4 @@ const TheCheckerSDK = require('thechecker-sdk-node');
 
 #### By
 
-2019 TheChecker ❤️.
+2020 TheChecker ❤️.
